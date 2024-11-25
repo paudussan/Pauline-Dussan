@@ -1,0 +1,42 @@
+<html>
+<head>
+  <title>JAG</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;display=swap" rel="stylesheet"/>
+  <style>
+    body {
+      font-family: 'Playfair Display', serif;
+    }
+  </style>
+</head>
+<body>
+  <header class="flex justify-between items-center p-4">
+    <div class="text-2xl font-bold">JAG</div>
+    <nav class="space-x-6">
+      <a class="text-sm" href="#">JESSICA BERGUIG</a>
+      <a class="text-sm" href="#">LA GALERIE</a>
+      <a class="text-sm" href="#">LES PROJETS</a>
+      <a class="text-sm" href="#">PAD 2024</a>
+      <a class="text-sm" href="#">CONTACT</a>
+    </nav>
+    <div class="text-sm">
+      <a class="mr-1" href="#">FR</a> / <a class="ml-1" href="#">EN</a>
+    </div>
+  </header>
+  <main class="grid grid-cols-4 gap-2 p-4">
+    <div class="col-span-1">
+      <img alt="Abstract wooden wall art with two green vases on a wooden table" class="w-full" height="800" src="https://storage.googleapis.com/a1aa/image/ujh8b5ZBYA5RGhUD7FHmEI1okfOj78O5YtznGNkFp8gfNl0TA.jpg" width="600"/>
+    </div>
+    <div class="col-span-1">
+      <img alt="Framed abstract art above a small round table with a chair and a vase of flowers" class="w-full" height="800" src="https://storage.googleapis.com/a1aa/image/2Dtf1e5o9VjfKJMQHYuqHyPBu5aKWWWliJeGezXgyaoqvpkeE.jpg" width="600"/>
+    </div>
+    <div class="col-span-1">
+      <img alt="Staircase with abstract wall art and a wicker chair with a small table" class="w-full" height="800" src="https://storage.googleapis.com/a1aa/image/lzGWrjeOMqVxaCeow8eE0qt84smJ1nVtez6HJWf31gUTvpkeE.jpg" width="600"/>
+    </div>
+    <div class="col-span-1">
+      <img alt="White modern chair in a minimalistic room" class="w-full" height="800" src="https://storage.googleapis.com/a1aa/image/3OGX7Nlu2iJaPl6hBgGuHPV5dSJMhMrGguWrTHX2eqPeNl0TA.jpg" width="600"/>
+    </div>
+  </main>
+</body>
+</html>
